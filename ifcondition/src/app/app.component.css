@@ -1,0 +1,21 @@
+img{
+    border-radius: 50px;
+   gap: 20px;
+}
+button{
+    
+    background-color: aqua;
+    border-radius: 20px;
+    gap:20px ;
+
+}
+#main{
+    display: flex;
+    grid-template-columns: repeat(3,1fr);
+    gap:20px;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    text-align: center;
+}
